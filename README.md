@@ -1,4 +1,4 @@
-![logo](https://github.com/irfanrajput5745/irfanrajput5745/blob/main/BANNER.jpg)
+![logo](https://github.com/irfanrajput5745/irfanrajput5745/blob/main/irfan-banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Irfan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
